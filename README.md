@@ -20,7 +20,7 @@ Computer Science student at Boston University passionate about building software
 ## 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,html,css,mongodb,git,github,c,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,html,css,mongodb,git,github,c,vscode,aws,sql" />
 </p>
 
 ---
