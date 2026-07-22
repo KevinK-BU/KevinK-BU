@@ -51,10 +51,10 @@ Mobile application for tracking pet medications, appointments, and health histor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinK-BU&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-[![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)]()
+[![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KevinK-BU&theme=tokyo-night)]()
 
 <!-- widgets go here -->
 
